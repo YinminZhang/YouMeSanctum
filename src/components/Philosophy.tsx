@@ -29,7 +29,7 @@ const Philosophy: React.FC = () => {
       },
       {
         icon: HomeIcon,
-        title: { EN: "Creating a Home Atmosphere", ZH: "创造归家之韵" },
+        title: { EN: "Creating a Home Atmosphere", ZH: "谱写归家之韵" },
         description: {
           EN: "We strive to provide a simple, warm and delicious dining environment. Every detail here creates a cozy, comfortable and familiar home atmosphere.",
           ZH: "我们致力于提供简约人文、烟火气与美食并存的环境。每个细节都散发着温馨、舒适的家的气息，让您宾至如归。"
