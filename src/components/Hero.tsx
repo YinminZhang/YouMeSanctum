@@ -71,7 +71,7 @@ const Hero: React.FC = () => {
         <h1 className="text-5xl md:text-6xl font-bold mb-4">{content.title[language]}</h1>
         <p className="text-xl md:text-2xl mb-8">{content.subtitle[language]}</p>
         <a
-          href="@/assets/images/wechat.jpg"
+          href="/images/wechat.jpg"
           target="_blank"
           rel="noopener noreferrer"
           className="bg-white text-gray-900 px-6 py-3 rounded-full text-lg font-semibold hover:bg-gray-100 transition duration-300"
